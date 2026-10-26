@@ -10,7 +10,7 @@ export const leaksData = [
     ownedBy: 'CubeCraft Games Ltd',
     officialSite: 'cubecraft.net',
     thumbnail: 'https://forums.cubecraftcdn.com/xenforo/data/avatars/o/307/307406.jpg?1591095808',
-    downloadUrl: 'https://safefileku.com/download/9k7IPtBoD2nq16F1', // Ganti dengan link download Anda
+    downloadUrl: 'https://safefileku.com/download/9k7IPtBoD2nq16F1',
     shortDescription: 'A long-running network with Eggwars, Skywars, Skyblock and parkour.',
     overview: `CubeCraft adalah salah satu server Minecraft multiplayer paling ikonik sejak 2012. Pelopor mode game legendaris seperti SkyWars dan EggWars yang kini hadir untuk Minecraft Bedrock (Win 10, Xbox, Mobile, PlayStation, Switch) dengan fitur Parties dan Friends.`,
     guideTitle: 'Gameplay & Aturan SkyWars:',
@@ -31,7 +31,7 @@ export const leaksData = [
     ownedBy: 'Hive Games Ltd',
     officialSite: 'playhive.com',
     thumbnail: 'https://playhive.com/content/images/size/w2000/2026/10/vwiudil6xt.jpeg',
-    downloadUrl: 'https://safefileku.com/download/zTHblK8dAJmCa88O', // Ganti dengan link download Anda
+    downloadUrl: 'https://safefileku.com/download/zTHblK8dAJmCa88O',
     shortDescription: 'Enter The Hive! Server multiplayer Better Together dengan mini-game legendaris Treasure Wars, Hide and Seek, dan DeathRun.',
     overview: `Enter The Hive! Server The Hive kini resmi hadir untuk lebih banyak pemain Minecraft! Server Minecraft adalah cara luar biasa untuk bermain multiplayer bersama pemain dari seluruh dunia di versi Better Together (Xbox One, Windows 10, Nintendo Switch, iOS, dan Android). The Hive menyediakan server di wilayah North America dan Europe (dengan deteksi koneksi terdekat otomatis) serta server ekspansi di masa mendatang untuk menjamin pengalaman bermain yang lancar bagi semua orang.`,
     guideTitle: 'Mode Permainan Populer di The Hive:',
@@ -52,7 +52,7 @@ export const leaksData = [
     ownedBy: 'Shapescape',
     officialSite: 'dimensionclash.com',
     thumbnail: 'https://dimensionclash.com/branding/LogoType.svg',
-    downloadUrl: 'https://safefileku.com/download/4j0RWvKN2DuNE36J', // Ganti dengan link download Anda jika ada
+    downloadUrl: 'https://safefileku.com/download/4j0RWvKN2DuNE36J',
     shortDescription: 'Capture, conquer, transform! Petualangan PvP serba cepat di mana dimensi Overworld, Nether, dan End bertabrakan.',
     overview: `Dimension Clash adalah mode pertempuran PvP serba cepat di Minecraft Bedrock. Bertarunglah melintasi pulau-pulau melayang untuk menguasai arena, merebut Essence, dan mengubah medan musuh menjadi dimensi timmu (Overworld, Nether, atau End) dalam pertarungan tim taktis yang mendebarkan.`,
     guideTitle: 'Fitur Utama & Gameplay Dimension Clash:',
@@ -61,6 +61,27 @@ export const leaksData = [
       'Rewrite the Rules (Twists): Berikan voting Twist sebelum tiap match untuk mengubah alur game secara liar, seperti gravitasi rendah atau memunculkan monster laba-laba.',
       'Customise Your Hero: Kustomisasi karaktermu dengan senjata, kostum, kill stone unik, serta buka reward menarik melalui Battle Pass.',
       'Squad Up with Friends: Masuk secara solo atau bentuk skuad bersama teman untuk menyusun strategi callout dan menjaga pertahanan dimensi bersama.'
+    ]
+  },
+  {
+    id: 'soulsteel',
+    title: 'SoulSteel The Old Kingdom is getting an overhaul!',
+    subtitle: 'Explore Dungeons · Ancient Weapons · Survival',
+    category: 'Server', // Diubah menjadi Server
+    edition: 'Bedrock Edition',
+    categories: ['Adventure', 'Dungeon', 'Server'], // Diubah menyesuaikan
+    ownedBy: 'Noxcrew LTD',
+    officialSite: 'noxcrew.com',
+    thumbnail: '/img/soulsteel.png',
+    downloadUrl: 'https://safefileku.com/download/WyYNdRwg7gh9KHJp',
+    shortDescription: 'Jelajahi dungeon misterius dan reruntuhan kerajaan kuno di SoulSteel, petualangan dungeoneering baru untuk Minecraft Bedrock.',
+    overview: `Explore SoulSteel, a new dungeoneering adventure available on Minecraft: Bedrock Edition. Anda adalah petualang baru di negeri asing yang penuh dengan dungeon misterius dan sisa-sisa kerajaan lama. Terikat oleh lentera penjaga waktu kuno, tujuan Anda adalah mengumpulkan emas dan harta karun sebelum waktu habis. Selesaikan quest, dapatkan pengalaman, buka dungeon baru, dan temukan senjata serta armor kuno dengan kemampuan unik yang kuat untuk mengalahkan musuh.`,
+    guideTitle: 'Fitur Utama SoulSteel:',
+    guideList: [
+      'Time-Keeping Lanterns: Bertualang sambil mengumpulkan harta karun sebelum batas waktu dari lentera kuno habis.',
+      'Dungeon Exploration: Jelajahi kedalaman tersembunyi dari dungeon-dungeon baru yang penuh tantangan.',
+      'Ancient Weapons & Armor: Temukan perlengkapan kuno dan lepaskan kemampuan (abilities) kuat untuk menghancurkan musuh.',
+      'The Old Kingdom Overhaul: Rasakan pembaruan dunia di antara dungeon The Old Kingdom yang kini semakin hidup.'
     ]
   }
 ];
