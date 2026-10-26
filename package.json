@@ -8,7 +8,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "deploy": "NITRO_PRESET=cloudflare-pages nuxt build && npx wrangler pages deploy .output/public --project-name=mcleak --production-branch=main"
+    "deploy": "NITRO_PRESET=cloudflare-pages nuxt build && npx wrangler pages deploy dist --project-name=mcleak --branch=main"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.11.4",
